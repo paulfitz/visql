@@ -1,0 +1,3 @@
+recursive-include visql *
+global-exclude *.pyc
+global-exclude *~
