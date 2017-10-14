@@ -5,6 +5,8 @@ Edit slices of SQL tables in vi.  Just specify a table and any filters
 you want to apply, and the table will show up in vi in csv format.
 Any edits you make will be applied back to the original source.
 
+![demo](https://user-images.githubusercontent.com/118367/31579274-e3cc78b4-b100-11e7-88a2-63be8a358dbb.gif)
+
 ## Install
 
 To edit local Sqlite databases, just do:
